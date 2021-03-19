@@ -1,0 +1,50 @@
+#haut{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50%;
+}
+#bas{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50%;
+}
+
+#moi{
+    background-color: blue;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+#savoir{
+    background-color: blueviolet;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+#travaux{
+    background-color: burlywood;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-bottom: -10px;
+    margin-left: -10px;
+}
+
+#contact{
+    background-color: cadetblue;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-bottom: -10px;
+    margin-right: -10px;
+}
