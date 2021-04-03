@@ -129,7 +129,6 @@ Assigned to: ThemeForest
 			enabled: true,
 			navigateByImgClick: true,
 			preload: [0,1]
-			tCounter: '%curr% / %total%'
 		},
 		image: {
 			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
